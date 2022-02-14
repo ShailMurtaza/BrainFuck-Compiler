@@ -2,6 +2,7 @@
 BrainFuck Compiler Implementation in C
 
 <b>
+<pre>
 >  Increment Pointer
 <  Decrement Pointer
 -  Decrement Value in Current Pointer
@@ -10,7 +11,7 @@ BrainFuck Compiler Implementation in C
 {  Print Value in Current Pointer as Integer (Very Useful while debugging)
 ,  Input Value as Charachter
 }  Input Value as Integer
-</b><hr>
+</pre></b><hr>
 <h4> Difference Between traditional BrainFuck Compiler and this one </h4>
 
 BrainFuck Compiler uses fixed size of 1 byte array to store data. <br>
