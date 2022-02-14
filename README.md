@@ -10,7 +10,7 @@ BrainFuck Compiler Implementation in C
 { Print Value in Current Pointer as Integer (Very Useful while debugging) <br>
 , Input Value as Charachter <br>
 } Input Value as Integer <br>
-</b>
+</b><hr>
 <h4> Difference Between traditional BrainFuck Compiler and this one </h4>
 
 BrainFuck Compiler uses fixed size of 1 byte array to store data. <br>
