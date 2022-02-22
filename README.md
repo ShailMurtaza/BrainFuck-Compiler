@@ -1,5 +1,5 @@
 # BrainFuck-Compiler
-BrainFuck Compiler Implementation in C
+Cross platform BrainFuck Compiler Implementation in C with no external dependencies
 
 <b>
 <pre>
